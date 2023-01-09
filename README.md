@@ -19,10 +19,15 @@ The task is episodic, and in order to solve the environment, the agent must get 
 The following files are included in this repository:
   
 README.md         - this readme file.
+
 Navigation.ipynb  - a jupyter notebook containing the code implementation.
+
 Report.ipynb      - a jupyter notebook containing a report of the project.
+
 checkpoint.pth    - the saved model weights of the successful agent.
+
 scores.txt        - a python pickle file containing the scores of the experiment.It's used to create the report.
+
 
 # Running the code
 The code must be run in the Udacity project workspace.
